@@ -1,2 +1,2 @@
 # Google-news-scraper
-Google new web scraping
+Google news web scraping
